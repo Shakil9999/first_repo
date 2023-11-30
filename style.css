@@ -1,0 +1,14 @@
+.blogs{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: aqua;
+    border: 5px solid red;
+    padding: 5px;
+}
+.blog1{
+    border: 2px solid green;
+    padding: 5px;
+    margin-right: 5px;
+}
